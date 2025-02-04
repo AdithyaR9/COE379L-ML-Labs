@@ -1,1 +1,1 @@
-# COE379L-Labs
+# COE379L-ML-Labs
